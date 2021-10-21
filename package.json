@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "graphql-yoga": "^1.18.3",
+    "mongoose": "^5.12.3"
+  },
+  "name": "projeto_funcional_certo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felipe S",
+  "license": "ISC",
+  "description": ""
+}
